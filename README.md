@@ -16,16 +16,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amirthakatesan57&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirthakatesan57&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 # 💻 Tech Stack
 
 ### 🧠 Programming Languages
@@ -125,6 +115,17 @@
 
 
 ---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amirthakatesan57&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirthakatesan57&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 🔗 Connect With Me
 
 <p align="center">
