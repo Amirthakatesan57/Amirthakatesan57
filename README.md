@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm AmirthaKatesan M</h1>
 
 <p align="center">
-  <em>Pre-Final Year Computer Science & Engineering Student • VIT Chennai | Data Science & AI Enthusiast | Full-Stack Developer | Data-Driven Problem Solver</em>
+  <em>Final Year Computer Science & Engineering Student • VIT Chennai | Data Science & AI Enthusiast | Full-Stack Developer | Data-Driven Problem Solver</em>
 </p>
 
 ---
